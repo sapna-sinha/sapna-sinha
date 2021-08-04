@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
+- 🤝 I’m looking for help with **my DragonGame Repo**
+
 - 💬 Ask me about **MySql, C++**
 
 - 📫 How to reach me **sapnachhabi07@gmail.com**
