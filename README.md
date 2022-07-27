@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sapnachhabi07@gmail.com**
 
-- ⚡ Fun fact **I like to read non-fictional books**
+- ⚡ Fun fact **I have made a same project in different Language i.e "Hello World"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
